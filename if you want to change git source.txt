@@ -1,0 +1,5 @@
+1. go to cmd
+2. find direction
+git add .
+git commit -m "example"
+git push
